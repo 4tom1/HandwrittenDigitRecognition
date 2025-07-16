@@ -1,1 +1,1 @@
-# HandwrittenDigitRecognition
+To train model you need data: https://drive.google.com/drive/folders/1ViHN7sNEUDVLIg0ktUgLZkA4MHR3wmUl?usp=sharing
